@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wahith-s
-- 👀 I’m interested in embedded  security & java coding 
-- 🌱 I’m currently studying electrical and electronics engineering
+- 👀 I’m interested in embedded  security & Java Programming 
+- 🌱 I’m currently pursuing my bachelor's in  electrical and electronics engineering
 - 📫 How to reach me gmail:wahith.in@gmail.com
 .
 
